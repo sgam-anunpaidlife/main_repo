@@ -1,3 +1,4 @@
 prototype.zip filter=lfs diff=lfs merge=lfs -text
 prototype.unitypackage filter=lfs diff=lfs merge=lfs -text
 Prototype.unitypackage filter=lfs diff=lfs merge=lfs -text
+RealMap.unitypackage filter=lfs diff=lfs merge=lfs -text
